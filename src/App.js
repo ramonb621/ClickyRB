@@ -11,11 +11,28 @@ class App extends Component {
     score: 0,
     tscore: 0
   };
+  
   scoreHandler = id => {
 
-    const pictures = this.state.pictures.filter(picture => picture.id === id);
+    // const pictures = this.state.pictures.filter(picture => picture.id === id);
 
-    this.setState({ pictures });
+    if(this.state.pictures.filter(picture => picture.id === id)){
+    }
+    this.setState({ 
+      score: this.state.score + 1,
+     });
+    // const pictures = this.state.pictures.filter(picture => picture.id === id);
+
+    // this.setState({ pictures });
+
+  };
+
+  tScoreHandler = id => {
+    if(this.state.pictures.filter(picture => picture.id === id)){
+    }
+    this.setState({ 
+      tscore: this.state.tscore + 1,
+     });
   };
 
   render() {
@@ -25,13 +42,16 @@ class App extends Component {
           <ul>
             <li className="game-name">Click Game</li>
             <li>Click an image to start game!</li>
-            <li className="score">Score: {this.state.score} <span className="topscore">| Top Score: {this.state.tscore}</span></li>
+            <li className="score">Score: {this.state.score}<span className="topscore">| Top Score: {this.state.tscore}</span></li>
           </ul>
           </Title>
           {this.state.pictures.map(picture => (
             <Game
             id={picture.id}
+            key={picture.id}
             image={picture.image}
+            scoreHandler={this.state.score}
+            tScoreHandler={this.state.tscore}
             />
           ))}
       </Wrapper>
