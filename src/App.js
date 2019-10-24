@@ -11,7 +11,8 @@ class App extends Component {
     score: 0,
     tscore: 0
   };
-  selectPic = id => {
+  scoreHandler = id => {
+
     const pictures = this.state.pictures.filter(picture => picture.id === id);
 
     this.setState({ pictures });
