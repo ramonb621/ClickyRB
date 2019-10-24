@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "https://media0.giphy.com/media/12dBjCf9NclhBe/200_s.gif"
+    },
+    {
+        "id":2,
+        "image": "https://media3.giphy.com/media/VfyC5j7sR4cso/200.gif"
+    },
+    {
+        "id":3,
+        "image": "https://media1.giphy.com/media/hB5Lpvi8pmg7K/200.gif"
+    },
+    {
+        "id":4,
+        "image": "https://media3.giphy.com/media/l2JeiuwmhZlkrVOkU/200.gif"
+    },
+    {
+        "id":5,
+        "image": "https://media3.giphy.com/media/d1tlu8P8b5FkY/200.gif"
+    },
+    {
+        "id":6,
+        "image":"https://media1.giphy.com/media/iiKkLzonSyK1q/200.gif"
+    },
+    {
+        "id":7,
+        "image": "https://media1.giphy.com/media/t2nHuHvc5cC2Y/200.gif"
+    },
+    {
+        "id":8,
+        "image": "https://media0.giphy.com/media/pRpIYysgx0Fq0/200.gif"
+    },
+    {
+        "id":9,
+        "image": "https://media2.giphy.com/media/3o6MbcnOB2SZ5nZAlO/200.gif"
+    },
+    {
+        "id":10,
+        "image": "https://media2.giphy.com/media/BBkKEBJkmFbTG/200.gif"
+    },
+    {
+        "id":11,
+        "image": "https://media1.giphy.com/media/TLyhdPMHc7s7S/200.gif"
+    },
+    {
+        "id":12,
+        "image": "https://media1.giphy.com/media/jwa7CacCFni6I/200_s.gif"
+    }
+]
