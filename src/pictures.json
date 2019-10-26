@@ -1,50 +1,62 @@
 [
     {
         "id": 1,
+        "clicked": false,
         "image": "https://media0.giphy.com/media/12dBjCf9NclhBe/200.gif"
     },
     {
         "id":2,
+        "clicked": false,
         "image": "https://media3.giphy.com/media/VfyC5j7sR4cso/200.gif"
     },
     {
         "id":3,
+        "clicked": false,
         "image": "https://media1.giphy.com/media/hB5Lpvi8pmg7K/200.gif"
     },
     {
         "id":4,
+        "clicked": false,
         "image": "https://media3.giphy.com/media/l2JeiuwmhZlkrVOkU/200.gif"
     },
     {
         "id":5,
+        "clicked": false,
         "image": "https://media3.giphy.com/media/d1tlu8P8b5FkY/200.gif"
     },
     {
         "id":6,
+        "clicked": false,
         "image":"https://media1.giphy.com/media/iiKkLzonSyK1q/200.gif"
     },
     {
         "id":7,
+        "clicked": false,
         "image": "https://media1.giphy.com/media/t2nHuHvc5cC2Y/200.gif"
     },
     {
         "id":8,
+        "clicked": false,
         "image": "https://media0.giphy.com/media/pRpIYysgx0Fq0/200.gif"
     },
     {
         "id":9,
+        "clicked": false,
         "image": "https://media2.giphy.com/media/3o6MbcnOB2SZ5nZAlO/200.gif"
     },
     {
         "id":10,
+        "clicked": false,
         "image": "https://media2.giphy.com/media/BBkKEBJkmFbTG/200.gif"
     },
     {
         "id":11,
+        "clicked": false,
         "image": "https://media1.giphy.com/media/TLyhdPMHc7s7S/200.gif"
     },
     {
         "id":12,
+        "clicked": false,
         "image": "https://media1.giphy.com/media/jwa7CacCFni6I/200.gif"
     }
 ]
