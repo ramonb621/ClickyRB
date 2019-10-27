@@ -1,0 +1,21 @@
+.game-cont{
+    position: relative;
+    display: inline-block;
+    height: 50%;
+    width: 90%;
+    margin: auto 0;
+    padding-right: 0;
+    left: 0;
+    right: 0;
+}
+.card-options{
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    padding: 10px;
+}
+img{
+    border-radius: 15px;
+    width: 200px;
+    height: 200px;
+}
