@@ -58,5 +58,20 @@
         "id":12,
         "clicked": false,
         "image": "https://media1.giphy.com/media/jwa7CacCFni6I/200.gif"
+    },
+    {
+        "id": 13,
+        "clicked": false,
+        "image": "https://media3.giphy.com/media/11qWQYYsGcpqZq/200.gif"
+    },
+    {
+        "id": 14,
+        "clicked": false,
+        "image": "https://media3.giphy.com/media/AwXAC8MMX1JUk/200.gif"
+    },
+    {
+        "id": 15,
+        "clicked": false,
+        "image": "https://media2.giphy.com/media/NtbFgpnaxFeNy/200.gif"
     }
 ]
