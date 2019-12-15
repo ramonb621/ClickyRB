@@ -54,7 +54,7 @@ class App extends Component{
         <Title>Click Game</Title>
         <div className="game-name">
 
-            <p>{this.state.message}</p>
+            <p className="message">{this.state.message}</p>
             <p className="score">Score: {this.state.score} | Top Score: {this.state.tscore}</p>
   
         </div>

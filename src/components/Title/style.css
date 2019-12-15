@@ -1,8 +1,10 @@
+/* font-family: 'Bebas Neue', cursive; */
 .title {
+  font-family: "Bebas Neue", cursive;
   width: 100%;
   text-align: center;
-  font-size: 3rem;
+  font-size: 5rem;
   font-weight: bold;
   color: #2A77AE;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
